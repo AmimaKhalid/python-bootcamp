@@ -1,7 +1,7 @@
-#print("Hello World!\nHello World!\nHello World")
-#print("Hello "+" "+" Amima")
-#input("what is your name?")
-#print("Hello " +  input("what is your name?"))
+print("Hello World!\nHello World!\nHello World")
+print("Hello "+" "+" Amima")
+input("what is your name?")
+print("Hello " +  input("what is your name?"))
 name = "Amima"
 print(name)
 name ="Moiz"
